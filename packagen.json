@@ -1,0 +1,14 @@
+{
+  "name": "sed-integration-project",
+  "version": "1.0.0",
+  "description": "Integração com a API da SED",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "echo 'Use Vercel CLI para rodar: vercel dev'"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
+
